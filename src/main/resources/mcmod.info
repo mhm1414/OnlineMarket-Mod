@@ -1,0 +1,21 @@
+[
+{
+  "modid": "OnlineMarket",
+  "name": "Online Market",
+  "description": "Have fun by never missing a chance to take on a great DEAL!! maybe even one in the BLACK MARKET",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "MHM1414"
+  ],
+  "credits": "To all Minecrafters out there!! =)",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
